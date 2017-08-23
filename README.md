@@ -1,3 +1,6 @@
+This is Mr.Hodard Hazwinayo from Rwanda in University of Rwanda 
+If you need me you can search my name on linkedine profile (Hodard Hazwinayo) or my E-mail: hodardhazwinayo@gmail.com
+Plz lets boost our knowledge by providing a good software for the people and IT solutions in our world.
 # Hello Code School
 
 This is a sample project to test out how projects work at Code School. For this project, you'll be creating a basic website using HTML. If you want to deploy it to a real website, we'll even walkthrough how to do that!
